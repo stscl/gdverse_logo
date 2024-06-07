@@ -23,7 +23,7 @@ image_read('./logo1.png') |>
   image_resize("256x256")|> 
   image_annotate("gdverse",
                  gravity = "northwest",
-                 location = "+81+111",
+                 location = "+84+111",
                  color = ggplot2::alpha('#ffffff',0.8),
                  size = 30,
                  font = "ShineTypewriter") |> 
