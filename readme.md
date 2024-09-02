@@ -33,6 +33,9 @@ sticker(
 image_read('./gdverse_logo1.png') |> 
   image_resize("256x256")|> 
   image_write('./gdverse_logo.png')
+
+# finally make sdsfun_logo1.png background transparent
+# https://uutool.cn/img-matting/
 ```
 
 ![](./gdverse_logo.png)
