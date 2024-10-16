@@ -38,7 +38,7 @@ sticker(
   h_color = ggplot2::alpha("#54564f",1),
   h_fill = ggplot2::alpha('#ffffff',0),
   white_around_sticker = T,
-  url = "https://ausgis.github.io/gdverse",
+  url = "https://stscl.github.io/gdverse",
   u_color = "white",
   u_size = 4.25,
   filename = "gdverse_logo1.png"
